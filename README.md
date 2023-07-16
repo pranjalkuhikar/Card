@@ -10,6 +10,7 @@ HTML, CSS...
 ## Screenshots
 
 ![Card](https://github.com/pranjalkuhikar/My_Stuff/assets/99873964/32882134-c9f7-446b-833b-6d054a283539)
+![Product_Card](https://github.com/pranjalkuhikar/My_Stuff/assets/99873964/1d4db5db-829f-41ef-bcf9-f15beed338dd)
 
 
 
