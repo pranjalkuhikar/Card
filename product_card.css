@@ -1,0 +1,79 @@
+@import url("https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700&family=Montserrat:wght@500;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#container {
+  background-color: rgb(234, 228, 228);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.box {
+  background-color: white;
+  border: none;
+  height: 420px;
+  width: 700px;
+  border-radius: 2rem;
+  display: flex;
+  position: relative;
+}
+
+img {
+  position: absolute;
+  width: 50%;
+  height: 100%;
+  border-top-left-radius: 2rem;
+  border-bottom-left-radius: 2rem;
+}
+
+.text {
+  font-family: "Montserrat", sans-serif;
+  margin: 1.5rem 2rem;
+  position: absolute;
+  left: 50%;
+}
+
+.head {
+  font-family: "Fraunces", serif;
+}
+
+.description {
+  text-align: justify;
+  color: hsl(228, 12%, 48%);
+}
+
+button {
+  position: absolute;
+  right: 9%;
+  width: 15rem;
+  height: 2.5rem;
+  background-color: #cccccc;
+  border: none;
+  border-radius: 0.9rem;
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.rupess {
+  display: flex;
+  gap: 1.4rem;
+}
+
+.rupess h1 {
+  font-family: "Fraunces", serif;
+  color: #cccccc;
+}
+
+.rupess p {
+  font-family: "Montserrat", sans-serif;
+  color: hsl(228, 12%, 48%);
+  position: absolute;
+  left: 6rem;
+  bottom: 1.5rem;
+}
